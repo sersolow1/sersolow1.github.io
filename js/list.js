@@ -6,7 +6,7 @@ const d = {
 				{
 					"user": "Sersolow",
 					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
-					"percent": "0",
+					"percent": "5",
 					"hz": "60hz"
 				},
 
