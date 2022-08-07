@@ -4,20 +4,20 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "name here",
-					"link": "yt link here",
-					"percent": "remove these quotations and replace it with an integer (numbers)",
-					"hz": "refresh rate here (Make sure you add Hz at the end"
+					"user": "Sersolow",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "0",
+					"hz": "60hz"
 				},
 
       ],
-			"name": "Level name here.",
-			"author": "Author name here",
+			"name": "Cnek Moment",
+			"author": "Rulmy",
 			"more": "none",
-			"id": "remove quotations and replace them with the level ID (integers)",
-			"pass": "Level pass here",
-			"percentToQualify": "remove quotations and replace them with integers (numbers)",
-			"verificationVid": "verification vid link here (youtube and twitch only allowed)",
+			"id": "54",
+			"pass": "None",
+			"percentToQualify": "50",
+			"verificationVid": "https://youtu.be/71pCNMuoVZU",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
