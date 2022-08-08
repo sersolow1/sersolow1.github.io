@@ -57,7 +57,7 @@ const d = {
 			"id": "225",
 			"pass": "None",
 			"percentToQualify": "8",
-			"verificationVid": "https://youtu.be/71pCNMuoVZU",
+			"verificationVid": "https://youtu.be/CM4B57MHlpg",
 			"key": 0
 		},
 		/*=================================================================================*/
