@@ -18,7 +18,7 @@ const d = {
 			"pass": "None",
 			"percentToQualify": "13",
 			"verificationVid": "https://youtu.be/71pCNMuoVZU",
-			"key": 100
+			"key": 0
 		},
 		/*=================================================================================*/
 		{
@@ -90,8 +90,8 @@ const d = {
 	],
 	"version": [
 		0,
-		1,
-		0
+		0,
+		1
 	]
 };
 
