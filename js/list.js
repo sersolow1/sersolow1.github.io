@@ -24,7 +24,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Sersolow",
+					"user": "Cindy",
 					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
 					"percent": "37",
 					"hz": "60hz"
