@@ -149,7 +149,7 @@ const d = {
 	"version": [
 		0,
 		0,
-		1Beta
+		1
 	]
 };
 
