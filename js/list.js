@@ -52,7 +52,7 @@ const d = {
 
       ],
 			"name": "Technical Error",
-			"author": "Sersolow",
+			"author": "Cindy",
 			"more": "none",
 			"id": "225",
 			"pass": "None",
@@ -64,7 +64,7 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "Sersolow",
+					"user": "Cindy",
 					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
 					"percent": "14",
 					"hz": "60hz"
@@ -81,6 +81,64 @@ const d = {
 			"key": 0
 		},
 		/*=================================================================================*/
+		{
+			"vids": [	
+				{
+					"user": "SashaGames",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "100",
+					"hz": "60hz"
+				},
+				{
+					"user": "AkameRage",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "100",
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Megatron Force",
+			"author": "PoSoSee",
+			"more": "none",
+			"id": "52",
+			"pass": "None",
+			"percentToQualify": "50",
+			"verificationVid": "https://youtu.be/71pCGCuoVZU",
+			"legacykey": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "SashaGames",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "100",
+					"hz": "60hz"
+				},
+				{
+					"user": "Cindy",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "100",
+					"hz": "60hz"
+				},
+				{
+					"user": "GamerBrine48",
+					"link": "https://www.youtube.com/channel/UCWkaTh7aKPSKyfx2h4ohyvw",
+					"percent": "100",
+					"hz": "60hz"
+				},
+
+      ],
+			"name": "Hell World",
+			"author": "Nifiro",
+			"more": "none",
+			"id": "52",
+			"pass": "None",
+			"percentToQualify": "50",
+			"verificationVid": "https://youtu.be/T-BKViLRhgA",
+			"legacykey": 0
+		},
+		/*=================================================================================*/
 
 
 
@@ -91,7 +149,7 @@ const d = {
 	"version": [
 		0,
 		0,
-		1
+		1Beta
 	]
 };
 
